@@ -151,12 +151,15 @@ Data parsing
 
 UI generation
 -------------
+Various levels of support for UI generation primarily from the validation vocabulary
 
 -   JavaScript
-    -   [Jsonary](http://jsonary.com/) - *supports draft 4* (MIT)
-    -   [Metawidget](http://metawidget.org/) (LGPL)
-    -   [Liform-react](https://github.com/Limenius/liform-react) (MIT)
+    -   [Angular Schema Form](https://github.com/json-schema-form/angular-schema-form) (MIT)
     -   [JSON Forms](http://jsonforms.io) (MIT)
+    -   [Jsonary](http://jsonary.com/) (MIT)
+    -   [Liform-react](https://github.com/Limenius/liform-react) (MIT)
+    -   [Metawidget](http://metawidget.org/) (LGPL)
+    -   [React JSON Schema Form](https://github.com/mozilla-services/react-jsonschema-form) (MIT)
 
 Editors
 -------
